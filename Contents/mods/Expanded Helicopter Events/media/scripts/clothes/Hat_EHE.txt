@@ -125,7 +125,7 @@ module EHE
 		CanHaveHoles = false,
 		BloodLocation = FullHelmet,
 		ClothingItemExtra = Hat_SPHCivilianVISORUP,
-        ClothingItemExtraOption = VisorDown,
+        ClothingItemExtraOption = VisorUp,
 		BiteDefense = 100,
 		ScratchDefense = 100,
 		ChanceToFall = 30,
