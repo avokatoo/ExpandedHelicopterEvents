@@ -1,0 +1,54 @@
+ItemName_RU = {
+	ItemName_EHE.Boilersuit_PoliceFlying = "Полицейский комбинезон пилота",
+	ItemName_EHE.Boilersuit_BlackFlying = "Чёрный комбинезон пилота",
+	
+	ItemName_EHE.Vest_BlackPilotSurvivalVestTightened = "Чёрный жилет пилота (застёгнут)",
+	ItemName_EHE.Vest_BlackPilotSurvivalVest = "Чёрный жилет пилота",
+	ItemName_EHE.Vest_PilotSurvivalVestTightened = "Армейский жилет пилота (застёгнут)",
+	ItemName_EHE.Vest_PilotSurvivalVest = "Армейский жилет пилота",
+	
+	ItemName_EHE.Vest_BulletPress = "Бронежилет прессы",
+	ItemName_EHE.Jacket_DenimCutoff = "Джинсовая куртка без рукавов",
+	
+	ItemName_EHE.Hat_SPHPolice = "Полицейский шлем пилота",
+	ItemName_EHE.Hat_SPHPoliceVISORUP = "Полицейский шлем пилота (визор поднят)",
+	
+	ItemName_EHE.Hat_SPHMilitary = "Армейский шлем пилота",
+	ItemName_EHE.Hat_SPHMilitaryVISORUP = "Армейский шлем пилота (визор поднят)",
+	
+	ItemName_EHE.Hat_SPHBlack = "Чёрный шлем пилота",
+	ItemName_EHE.Hat_SPHBlackVISORUP = "Чёрный шлем пилота (визор поднят)",
+	
+	ItemName_EHE.Hat_SPHCivilian = "Шлем пилота",
+	ItemName_EHE.Hat_SPHCivilianVISORUP = "Шлем пилота (визор поднят)",
+	
+	ItemName_EHE.Hat_PressHelmet = "Шлем прессы",
+	ItemName_EHE.Hat_SurvivalistHelmet = "Шлем выживальщика",
+	ItemName_EHE.Hat_CavalryHat = "Шляпа кавалериста",
+
+	ItemName_EHE.EmergencyFoodSupplyBox = "Коробка с припасами",
+	ItemName_EHE.EmergencyMedicalSupplyBox = "Коробка с припасами",
+	ItemName_EHE.EmergencySurvivalSupplyBox = "Коробка с припасами",
+	ItemName_EHE.BanditStashBox = "Коробка с припасами",
+	ItemName_EHE.SurvivorFoodSupplyBox = "Коробка с припасами",
+	ItemName_EHE.SurvivorMedicalSupplyBox = "Коробка с припасами",
+	ItemName_EHE.SurvivorFishingSupplyBox = "Коробка с припасами",
+	ItemName_EHE.SurvivorSeedSupplyBox = "Коробка с припасами",
+	ItemName_EHE.SurvivorCanningSupplyBox = "Коробка с припасами",
+	ItemName_EHE.SurvivorToiletSupplyBox = "Коробка с припасами",
+
+	ItemName_EHE.NoticeFlyer = "Листовка «Официальные инструкции»",
+	ItemName_EHE.EvacuationFlyer = "Листовка «Приказ об эвакуации»",
+	ItemName_EHE.EmergencyFlyer = "Листовка «Экстренное уведомление»",
+	ItemName_EHE.QuarantineFlyer = "Листовка «Соблюдайте карантин»",
+	ItemName_EHE.PreventionFlyer = "Листовка «Центр по контролю заболеваний»",
+
+	ItemName_EHE.EHE_Parachute = "Использованный парашют",
+	ItemName_EHE.PlentyTee = "Энергитический батончик PlentyTee(TM)",
+	ItemName_EHE.Bell206RotorBlade = "Оторваная лопасть несущего винта",
+	ItemName_EHE.Bell206TailBlade = "Оторваная лопасть хвостового винта",
+	ItemName_EHE.Bell206HalfSkirt = "Искореженный кусок шасси",
+	ItemName_EHE.UH1HRotorBlade = "Оторваная лопасть несущего винта",
+	ItemName_EHE.UH1HHalfSkirt = "Искореженный кусок шасси",
+	
+}
